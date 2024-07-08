@@ -1,0 +1,13 @@
+ru\volkova\test_javaCode\TestJavaCodeApplication.class
+ru\volkova\test_javaCode\dto\WalletsUpdateDto$WalletsUpdateDtoBuilder.class
+ru\volkova\test_javaCode\dto\WalletsCreateDto.class
+ru\volkova\test_javaCode\service\WalletServiceImpl.class
+ru\volkova\test_javaCode\dto\WalletsUpdateDto.class
+ru\volkova\test_javaCode\dto\WalletsCreateDto$WalletsCreateDtoBuilder.class
+ru\volkova\test_javaCode\dto\WalletsDto$WalletsDtoBuilder.class
+ru\volkova\test_javaCode\controller\WalletsController.class
+ru\volkova\test_javaCode\model\Wallets$WalletsBuilder.class
+ru\volkova\test_javaCode\service\WalletsService.class
+ru\volkova\test_javaCode\model\Wallets.class
+ru\volkova\test_javaCode\repository\WalletsRepository.class
+ru\volkova\test_javaCode\dto\WalletsDto.class
